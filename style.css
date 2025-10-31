@@ -1,0 +1,23 @@
+#first{
+    display:flex;
+    flex-direction: column;
+    justify-content:center; 
+    align-items:center; 
+    font-size: 30px; 
+    gap: 40px;
+    text-align: center;
+    width: 80%; 
+    margin: auto;
+}
+button {
+  height: 50px;
+  width: 150px;
+  font-size: 18px;
+  /* font-weight:bold ; */
+  border-radius: 10px;
+  /* background-color: #1e1e1e; */
+  /* color: white; */
+  border: none;
+  cursor: pointer;
+  padding: 2px;
+}
